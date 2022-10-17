@@ -20,6 +20,4 @@
   <h1 align="center">Hi there 👋</h1>
 </div>
 
-<div id="stats">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iluzioDev)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iluzioDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
