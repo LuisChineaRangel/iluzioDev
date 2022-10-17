@@ -29,7 +29,8 @@ I'm a programming enthusiast, always learning.
 - 🏫 I’m studying Computer Engineering, specializing in ICT.
 - 🎮 I love Videogames, create Digital Art and Coffee.
 - 📫 You can contact me via e-mail:&nbsp;
-<img src="https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white&style=flat&style=for-the-badge" alt="Gmail-Badge"/> 
+<img src="https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white&style=flat&style=for-the-badge" alt="Gmail-Badge"/>
+
 ---
 
 ### 🔧 Languages and Skills
@@ -45,7 +46,9 @@ I'm a programming enthusiast, always learning.
 </div>
 
 ---
+
 ### 📈  Stats
+
 ---
 <br>
 <div id="stats" align="center">
