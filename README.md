@@ -31,7 +31,9 @@ I'm a programming enthusiast, always learning.
 - 📫 You can contact me via e-mail:&nbsp;
 <img src="https://img.shields.io/badge/Gmail-orange?logo=gmail&logoColor=white&style=flat&style=for-the-badge" alt="Gmail-Badge"/> 
 ---
+
 ### 🔧 Languages and Skills
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" height=35 widht=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height=35 widht=35/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" height=35 widht=35/>
