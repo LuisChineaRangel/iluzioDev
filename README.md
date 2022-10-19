@@ -20,10 +20,10 @@
     <img src="https://komarev.com/ghpvc/?username=iluzioDev&style=flat-square&color=blue" alt=""/>
   </div>
   <br>
-  <h1 align="center">👋 Hello there! <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height=25/></h1>
+  <h1 align="center">Hello there! 👋<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" height=25/></h1>
 </div>
 
-### 👤  About me:
+### About me 👤
 I'm a programming enthusiast, always learning.
 
 - 🏫 I’m studying Computer Engineering, specializing in ICT.
@@ -32,7 +32,7 @@ I'm a programming enthusiast, always learning.
 
 ---
 
-### 🔧 Languages and Skills
+### Languages and Skills 🔧
 <div id="languages-and-skills">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" height=35 widht=35/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height=35 widht=35/>
@@ -46,7 +46,7 @@ I'm a programming enthusiast, always learning.
 
 ---
 
-### 📈  Stats
+### Stats 📈
 
 ---
 <br>
