@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/luischinearangel/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn-Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/@iluzio">
+    <a href="https://www.youtube.com/@iluzio">
       <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube-Badge"/>
     </a>
     <a href="https://www.twitter.com/IluzioDev">
