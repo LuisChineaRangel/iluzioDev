@@ -56,6 +56,4 @@ I'm a programming enthusiast, always learning.
 <div id="stats" align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=iluzioDev&theme=dark)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iluzioDev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
